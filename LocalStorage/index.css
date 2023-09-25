@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(131, 191, 172);
+    padding: 30px;
+    margin: 20px;
+}
+#disp{
+    margin: 20px;
+    /* border: 1px solid red; */
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    width: 50%;
+    background: rgb(0, 255, 170);
+    color: rgb(56, 20, 20);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+#btn{
+   color: rgb(246, 240, 240);
+   background-color: blue;
+   padding: 10px;
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: large;
+}
+#Rbtn{
+   color: rgb(255, 255, 255);
+   background-color: blueviolet;
+   padding: 10px;
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: large;
+
+}
+#age{
+   padding: 10px;
+   font-weight: bold;
+   font-size: larger;
+   width: 10%;
+   border-radius: 5px;
+   
+
+}
+#userName{
+    padding: 10px;
+    font-weight: bold;
+    font-size: larger;
+    width: 18%;
+    border-radius: 5px;
+}
